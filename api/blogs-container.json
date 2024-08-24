@@ -1,0 +1,17 @@
+[
+    {
+        "type" : "beach",
+        "description" : "most visit destination in australia",
+        "image" : "./images/blog-1.jpg"
+    },
+    {
+        "type" : "nature",
+        "description" : "australia virtual travel fair march 2025",
+        "image" : "./images/blog-2.jpg"
+    },
+    {
+        "type" : "romantic",
+        "description" : "a peek in to indonesia's natural beauty",
+        "image" : "./images/blog-3.jpg"
+    }
+]

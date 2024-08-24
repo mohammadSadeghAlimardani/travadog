@@ -1,0 +1,22 @@
+[
+    {
+        "icon" : "fa-solid fa-crown",
+        "title" : "Best travel provider",
+        "description" : "Your travel memories and stories are our top priority. We make sure the whole process of your vacation goes well and unforgettable."
+    },
+    {
+        "icon" : "fa-solid fa-envelope",
+        "title" : "Personalized Service",
+        "description" : "We know that your interests come before any program we can offer. Providing the best service for each person is our principle in perfecting your trip."
+    },
+    {
+        "icon" : "fa-solid fa-earth-asia",
+        "title" : "Experienced agent",
+        "description" : "Our experience and flight hours have proven that customer satisfaction that keeps returning and the various things we go through become our"
+    },
+    {
+        "icon" : "fa-solid fa-route",
+        "title" : "Trouble-free",
+        "description" : "Through our comprehensive service in all aspects, you don't have to take care of many things and make your vacation a job. We will do it for you"
+    }
+]

@@ -1,0 +1,156 @@
+[
+    {
+        "type" : "cottage",
+        "image" : "./images/travel-package-1.jpg",
+        "title" : "special tour cottage tourism",
+        "place" : "rattendorf, austria",
+        "travelStatus" : "round trip",
+        "rating" : "4.9",
+        "date" : "8 Jul - 12 Jul",
+        "price" : "1210",
+        "duration" : "4-day package"
+    },
+    {
+        "type" : "homestay",
+        "image" : "./images/travel-package-2.jpg",
+        "title" : "special tour homesaty tourism",
+        "place" : "tokyo, japan",
+        "travelStatus" : "round trip",
+        "rating" : "4.2",
+        "date" : "7 Aug - 15 Aug",
+        "price" : "1340",
+        "duration" : "8-day package"
+    },
+    {
+        "type" : "resort",
+        "image" : "./images/travel-package-3.jpg",
+        "title" : "special tour resort tourism",
+        "place" : "rembang, indonesia",
+        "travelStatus" : "round trip",
+        "rating" : "4.9",
+        "date" : "7 Jun - 10 Jun",
+        "price" : "1250",
+        "duration" : "3-day package"
+    },
+    {
+        "type" : "villa",
+        "image" : "./images/travel-package-4.jpg",
+        "title" : "special tour villa tourism",
+        "place" : "dubai, uea",
+        "travelStatus" : "round trip",
+        "rating" : "5",
+        "date" : "12 Jun - 15 Jun",
+        "price" : "1460",
+        "duration" : "5-day package"
+    },
+    {
+        "type" : "guesthouse",
+        "image" : "./images/travel-package-5.jpg",
+        "title" : "special tour guesthouse tourism",
+        "place" : "malmo, sweden",
+        "travelStatus" : "round trip",
+        "rating" : "3.8",
+        "date" : "12 Mar - 18 Mar",
+        "price" : "1120",
+        "duration" : "6-day package"
+    },
+    {
+        "type" : "hotel",
+        "image" : "./images/travel-package-6.jpg",
+        "title" : "special tour hotel tourism",
+        "place" : "maldives",
+        "travelStatus" : "round trip",
+        "rating" : "4.1",
+        "date" : "18 Aug - 23 Aug",
+        "price" : "1100",
+        "duration" : "5-day package"
+    },
+    {
+        "type" : "homestay",
+        "image" : "./images/travel-package-7.jpg",
+        "title" : "special tour homestay tourism",
+        "place" : "veniz, italy",
+        "travelStatus" : "round trip",
+        "rating" : "3.2",
+        "date" : "7 Apr - 16 Apr",
+        "price" : "1050",
+        "duration" : "9-day package"
+    },
+    {
+        "type" : "cottage",
+        "image" : "./images/travel-package-8.jpg",
+        "title" : "special tour cottage tourism",
+        "place" : "switzerland",
+        "travelStatus" : "round trip",
+        "rating" : "4.7",
+        "date" : "12 Jun - 16 Jun",
+        "price" : "1520",
+        "duration" : "4-day package"
+    },
+    {
+        "type" : "guesthouse",
+        "image" : "./images/travel-package-9.jpg",
+        "title" : "special tour guesthouse tourism",
+        "place" : "italy",
+        "travelStatus" : "round trip",
+        "rating" : "4.7",
+        "date" : "16 May - 19 May",
+        "price" : "1460",
+        "duration" : "3-day package"
+    },
+    {
+        "type" : "eco lodge",
+        "image" : "./images/travel-package-10.jpg",
+        "title" : "special tour eco lodge tourism",
+        "place" : "netherland",
+        "travelStatus" : "round trip",
+        "rating" : "4",
+        "date" : "14 May - 20 May",
+        "price" : "1310",
+        "duration" : "6-day package"
+    },
+    {
+        "type" : "villa",
+        "image" : "./images/travel-package-11.jpg",
+        "title" : "special tour villa tourism",
+        "place" : "ryadh, saudi arabia",
+        "travelStatus" : "round trip",
+        "rating" : "5",
+        "date" : "13 Sep - 20 Sep",
+        "price" : "1640",
+        "duration" : "7-day package"
+    },
+    {
+        "type" : "homestay",
+        "image" : "./images/travel-package-12.jpg",
+        "title" : "special tour villa tourism",
+        "place" : "valladolid, spain",
+        "travelStatus" : "round trip",
+        "rating" : "3",
+        "date" : "16 Dec - 20 Dec",
+        "price" : "1250",
+        "duration" : "4-day package"
+    },
+    {
+        "type" : "homestay",
+        "image" : "./images/travel-package-13.jpg",
+        "title" : "special tour homesaty tourism",
+        "place" : "spain",
+        "travelStatus" : "round trip",
+        "rating" : "3.9",
+        "date" : "18 Aug - 23 Aug",
+        "price" : "1350",
+        "duration" : "5-day package"
+    },
+    {
+        "type" : "cottage",
+        "image" : "./images/travel-package-14.jpg",
+        "title" : "special tour cottage tourism",
+        "place" : "austria",
+        "travelStatus" : "round trip",
+        "rating" : "4.3",
+        "date" : "13 Apr - 15 Apr",
+        "price" : "1430",
+        "duration" : "2-day package"
+    }
+]

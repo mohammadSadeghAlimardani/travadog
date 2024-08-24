@@ -1,0 +1,132 @@
+body{
+    font-family: 'Avenir-Regular';
+}
+h1{
+    font-size: 1.5rem;
+}
+h2{
+    font-size: 1.5rem;
+}
+h3{
+    font-size: 1.17rem;
+}
+h4{
+    font-size: 1rem;
+}
+h5{
+    font-size: 0.83rem;
+}
+h6{
+    font-size: 0.67rem;
+}
+a{
+    text-decoration: none;
+}
+.bordered{
+    border: 2px solid #5FBCBC;
+    border-radius: 25px;
+    background-color: rgba(25, 108, 124, 0.6);
+}
+
+.btn{
+    cursor: pointer;
+    border: none;
+    border-radius: 25px;
+    font-family: 'Avenir-Regular';
+    text-transform: capitalize;
+    padding: 0.75rem 2rem;
+    transition: all 0.5s;
+}
+.btn.btn-info{
+    background-color: #02B2FF;
+    color: white;
+}
+.btn.btn-info:hover{
+    background-color: #025fff;
+}
+
+.btn.btn-white{
+    background-color: white;
+    border: 2px solid #CDD6E1;
+    color: #66849C;
+    display: flex;
+    gap: 0 0.5rem;
+    align-items: center;
+}
+.btn.btn-white:hover{
+    background-color: #CDD6E1;
+    color: white;
+}
+
+
+.btn.btn-milk{
+    font-weight: 600;
+    color: #02B2FF;
+    background-color: white;
+}
+.btn.btn-milk:hover{
+    background-color: #02B2FF;
+    color: white;
+}
+
+section.section-center{
+    width: 90%;
+    margin: 0 auto;
+    max-width: 1170px;
+}
+
+.title{
+    color: #02B2FF;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+
+
+.seprate-border{
+    border-right: 1px solid #CDD6E1;
+    border-left: 1px solid #CDD6E1;
+}
+
+
+
+/* explore-form */
+
+form.explore-form{
+    max-width: 840px;
+    padding: 1rem 0;
+    background-color: white;
+    border-radius: 50px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    align-items: center;
+    border: 1px solid #7793A9;
+}
+form.explore-form article{
+    padding: 0 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0 0.5rem;
+}
+form.explore-form article:first-child{
+    justify-content: flex-start;
+}
+form.explore-form article:last-child{
+    justify-content: flex-end;
+}
+form.explore-form select,input{
+    border: none;
+    font-family: 'Avenir-Regular';
+    color: #7793A9;
+    text-transform: capitalize;
+}
+form.explore-form select{
+    padding: 0 0.5rem;
+}
+form.explore-form select:focus{
+    outline: none;
+}
+form.explore-form input:focus{
+    outline: none;
+}

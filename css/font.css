@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Avenir-Light';
+    src: url('../fonts/Avenir\ Light.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Avenir-Medium';
+    src: url('../fonts/Avenir\ Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'Avenir-Regular';
+    src: url('../fonts/Avenir\ Regular.ttf') format('truetype');
+}
