@@ -434,8 +434,11 @@
     padding-top: 0.75rem;
     align-items: center;
 }
-.explore > section .travel-packages-container article ul:has(span) li:nth-child(2){
-    padding: 0 1rem;
+.explore > section .travel-packages-container article div.seprate-vertical-border{
+    text-align: center;
+    width: 1px;
+    background-color:#CDD6E1;
+    height: 1.5rem;
 }
 .explore > section .travel-packages-container article ul:has(button) li{
     font-weight: bold;
@@ -472,6 +475,11 @@
 @media screen and (max-width:640px){
     .explore > section ul.explore-btns{
         grid-template-columns: repeat(2, 1fr);
+    }
+}
+@media screen and (max-width:480px){
+    .explore > section .travel-packages-container article ul:has(span){
+        font-size: 0.83rem;
     }
 }
 /* ==== articles ==== */
