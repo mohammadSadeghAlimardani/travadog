@@ -134,10 +134,12 @@ function displayTravelPackages(items){
                             <i class="fa-solid fa-arrows-spin"></i>
                             <span>${travelStatus}</span>
                         </li>
-                        <li class="seprate-border">
+                        <div class="seprate-vertical-border"></div>
+                        <li>
                             <i class="fa-solid fa-star"></i>
                             <span>${rating} rating</span>
                         </li>
+                        <div class="seprate-vertical-border"></div>
                         <li>
                             <i class="fa-solid fa-calendar-days"></i>
                             <span>${date}</span>
